@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "YoungSinatra",
+    "SHORT" : "Announces joining and leaving users.",
+    "DESCRIPTION" : "Makes sure you don't miss a user joining or leaving your server(s).",
+    "DISABLED" : false,
+    "NAME" : "Welcomer",
+    "INSTALL_MSG" : "This cog is a edited version of the red welcomset cog, a few things where added as a leave message setting. Hope you enjoy!"
+}
