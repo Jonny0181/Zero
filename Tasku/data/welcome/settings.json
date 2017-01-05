@@ -1,0 +1,9 @@
+{
+    "222891739336146947" : {
+        "CHANNEL" : "222891739336146947",
+        "GREETING" : "{0.mention} Welcome to {1.name}! For support go to <#222894633422684161>! Other than that please enjoy your stay and check out <#249035329133084672>!",
+        "LEAVEMSG" : "{0.name}#{0.discriminator} left! Why?! \ud83d\ude2d",
+        "ON" : true,
+        "WHISPER" : false
+    }
+}
